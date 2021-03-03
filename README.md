@@ -1,6 +1,8 @@
 # Phonix
 
 An ecommerce website for buying mobile phones cases.
+![image](https://user-images.githubusercontent.com/73683035/109754679-71cca700-7c1f-11eb-89d3-74108cae0a6f.png)
+
 
 ## Objective
 Design and develop a fully functioning website that features a responsive UI, is mobile-friendly, works with all popular browsers, and
